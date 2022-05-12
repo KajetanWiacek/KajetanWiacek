@@ -1,3 +1,3 @@
-👋 Hi, My name is Kajetan and I am Java Developer.
+👋 Hi, I am Kajetan and I am Java Developer.
 Writing code and learning about new technologies is my passion.
 

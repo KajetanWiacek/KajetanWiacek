@@ -1,7 +1,7 @@
 👋 Hi, My name is Kajetan and I am Java Developer.
 Writing code and learning about new technologies is my passion.
 
-## Technologies I use
+## Technologies
 - Java
 - Spring Boot
 - Hibernate

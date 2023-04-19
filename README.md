@@ -2,16 +2,16 @@
 
 ## Technologies
 
-# Core
+### Core
 - Java
 - Spring / Spring Boot
 
-# DB / ORM
+### DB / ORM
 - Hibernate
 - JPA
 - JDBCTemplate
 
-# Testing
+### Testing
 - JUnit
 - Mockito
 - Spock
@@ -19,27 +19,38 @@
 - TestContainers
 - Hamcrest
 
-# Microservices
+### Microservices
 - RabbitMQ
 
-# REST
+### REST
 - RestTemplate
 - External API implementation
 
-# Security
+### Security
 - Spring security
 - Keycloak
 - JWT implementation
 
-# Migration
+### Migration
 - Flyway
 - Liquibase
 
-# Commons
+### Commons
 - Lombok
 - MapStruct
 - ApachePOI
 - ApacheFOP
 
-# Documentation
+### Documentation
 - Swagger
+
+## Currently working on
+- Developing new features in a commercial project
+- Optimizing time of working features
+- Code refactoring
+- Fixing production cases bugs
+
+## Goals
+- Writing more optimized code
+- Learning new technologies
+- Discover new architectural solutions

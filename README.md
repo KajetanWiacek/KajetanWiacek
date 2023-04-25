@@ -1,56 +1,18 @@
-👋 Hi, My name is Kajetan and I am Java Developer.
+## 👋 Hi, My name is Kajetan and I am Java Developer.
 
-## Technologies
+## :satellite: Tech stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![JUnit5 Badge](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=fff)
+![RabbitMQ Badge](https://img.shields.io/badge/RabbitMQ-F60?style=for-the-badge&logo=rabbitmq&logoColor=fff)
+![Flyway Badge](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=fff)
 
-### Core
-- Java
-- Spring / Spring Boot
-
-### DB / ORM
-- Hibernate
-- JPA
-- JDBCTemplate
-
-### Testing
-- JUnit
-- Mockito
-- Spock
-- RestAssured
-- TestContainers
-- Hamcrest
-
-### Microservices
-- RabbitMQ
-
-### REST
-- RestTemplate
-- External API implementation
-
-### Security
-- Spring security
-- Keycloak
-- JWT implementation
-
-### Migration
-- Flyway
-- Liquibase
-
-### Commons
-- Lombok
-- MapStruct
-- ApachePOI
-- ApacheFOP
-
-### Documentation
-- Swagger
-
-## Currently working on
+## :computer: Currently working on
 - Developing new features in a commercial project
-- Optimizing time of working features
+- Performance optimalization
 - Code refactoring
-- Fixing production cases bugs
-
-## Goals
-- Writing more optimized code
-- Learning new technologies
-- Discover new architectural solutions
+- Supporting and maintaining project

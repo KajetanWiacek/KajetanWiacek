@@ -12,7 +12,7 @@
 ![Flyway Badge](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=fff)
 
 ## :computer: Currently working on
-- Developing new features in a commercial project
+- Development
 - Performance optimalization
 - Code refactoring
 - Supporting and maintaining project
